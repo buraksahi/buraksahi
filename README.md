@@ -3,8 +3,8 @@
 
 <h3><div align="center"><p>Yazılım Geliştirici</p> </div></h3>
 <ul>
-  <li>Şu anda HTML, CSS ve Javascript üzerinde çalışıyorum</li>
-  <li>Laravel öğreniyorum</li>
+  <strong><li>Şu anda HTML, CSS ve Javascript üzerinde çalışıyorum</li></strong>
+  <strong><li>Laravel öğreniyorum</li></strong>
 </ul>
 
 ## Connect with me:
