@@ -1,7 +1,7 @@
 **_Hi there, I'm Burak._**
 
 
-<h3><div align="center"><p>Yazılım Geliştirici.</p> </div></h3>
+<h3><div align="center"><p>Yazılım Geliştirici</p> </div></h3>
 
 
 ## Connect with me:
