@@ -1,5 +1,15 @@
 **_Hi there, I'm Burak._**
 
+
+<strong>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS ve Javascript üzerinde çalışıyorum</font></font>
+</strong>
+<strong>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS ve Javascript üzerinde çalışıyorum</font></font>
+</strong>
+<strong>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS ve Javascript üzerinde çalışıyorum</font></font>
+</strong>
 <strong>
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML, CSS ve Javascript üzerinde çalışıyorum</font></font>
 </strong>
