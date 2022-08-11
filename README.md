@@ -10,4 +10,4 @@ Hi there, I'm Burak.
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" align="center"/>[youtube]
 
 
-[youtube]: https://www.linkedin.com/in/buraksahinturk/
+[linkedin]: https://www.linkedin.com/in/buraksahinturk/
