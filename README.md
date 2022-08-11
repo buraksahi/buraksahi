@@ -1,4 +1,4 @@
-**_Hi there, I'm Burak._**
+**_Merhaba, Ben Burak._**
 
 
 <h3><div align="left"><p>Yazılım Geliştirici</p> </div></h3>
