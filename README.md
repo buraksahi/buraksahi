@@ -1,4 +1,4 @@
-**_Merhaba, Ben Burak._**
+**_Merhaba, Ben Burak_**
 
 
 <h3><div align="left"><p>Yazılım Geliştirici</p> </div></h3>
