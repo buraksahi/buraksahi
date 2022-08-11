@@ -2,6 +2,10 @@
 
 
 <h3><div align="center"><p>Yazılım Geliştirici</p> </div></h3>
+<ol>
+<li>Şu anda HTML, CSS ve Javascript üzerinde çalışıyorum</li>
+<li>Laravel öğreniyorum</li>
+</ol>
 
 
 ## Connect with me:
